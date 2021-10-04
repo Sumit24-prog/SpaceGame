@@ -4,8 +4,8 @@ A 2D Space Game using python
 Space game
 
 ![Sumit](./SpaceGame.JPG)
-br/
-br/
+<br/>
+<br/>
 
 ![SpaceGame](./space1.JPG)
 
